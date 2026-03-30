@@ -7,7 +7,7 @@ Olá! Sou o Luciano, profissional com mais de 8 anos de experiência em suporte 
 🛠️ Atualmente focado em: Automação de processos e testes de software.
 
 🎓 Cursando: Análise e Desenvolvimento de Sistemas (FAETERJ-Rio).
-.
+
 ⚙️ Expertise: Troubleshooting, SQL Server e otimização de consultas.
 
 
