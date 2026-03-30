@@ -7,6 +7,7 @@ Atualmente, estou unindo minha bagagem sólida em **Database Testing** e anális
 
 ---
 <br>
+
 ### 🕵️ O que eu trago para a mesa como QA:
 
 - **Database Testing:** Expertise em validar integridade de dados diretamente no **SQL Server** e **Oracle** via scripts T-SQL, transações e auditoria de logs.
@@ -16,6 +17,7 @@ Atualmente, estou unindo minha bagagem sólida em **Database Testing** e anális
 
 ---
 <br>
+
 ### 🛠️ Tecnologias e Ferramentas
 
 **Automação & IA** 
