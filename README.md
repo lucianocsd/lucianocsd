@@ -6,7 +6,7 @@ Profissional com mais de 8 anos de experiência em **Suporte Técnico Nível 2/3
 Atualmente, estou unindo minha bagagem sólida em **Database Testing** e análise de causa raiz com ferramentas modernas de automação (n8n, Python) para me tornar um **QA Tester** focado em Backend e Performance.
 
 ---
-
+<br>
 ### 🕵️ O que eu trago para a mesa como QA:
 
 - **Database Testing:** Expertise em validar integridade de dados diretamente no **SQL Server** e **Oracle** via scripts T-SQL, transações e auditoria de logs.
@@ -15,7 +15,7 @@ Atualmente, estou unindo minha bagagem sólida em **Database Testing** e anális
 - **Automação de Dados:** Desenvolvimento de fluxos inteligentes com **n8n** para monitoramento de APIs e alertas automatizados via Telegram/PostgreSQL.
 
 ---
-
+<br>
 ### 🛠️ Tecnologias e Ferramentas
 
 **Automação & IA** 
