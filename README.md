@@ -1,4 +1,5 @@
-🚀 Luciano Carvalho
+### Luciano Carvalho
+
 Analista de TI | QA Tester em Formação | Especialista em Bancos de Dados
 
 Olá! Sou o Luciano, profissional com mais de 8 anos de experiência em suporte técnico e análise de dados. Atualmente, estou mergulhando no ecossistema de QA Testing e Automação, unindo minha base sólida em SQL com ferramentas modernas como n8n e Python.
