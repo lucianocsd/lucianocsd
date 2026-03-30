@@ -14,6 +14,8 @@ Atualmente, estou unindo minha bagagem sólida em **Database Testing** e anális
 - **Troubleshooting Complexo:** Habilidade em depurar falhas de conectividade (BDE, SQLNCLI) e lógica de negócio em sistemas desktop e web.
 - **Automação de Dados:** Desenvolvimento de fluxos inteligentes com **n8n** para monitoramento de APIs e alertas automatizados via Telegram/PostgreSQL.
 
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 **Automação & IA** 
