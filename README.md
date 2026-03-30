@@ -40,9 +40,9 @@ Atualmente, estou unindo minha bagagem sólida em **Database Testing** e anális
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucianocsd&theme=tokyonight&layout=compact" alt="Linguagens mais usadas" height="170">
 </p>
-
----
 <br>
+---
+
 ### 🔗 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianocsd)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
