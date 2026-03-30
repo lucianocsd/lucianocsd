@@ -21,9 +21,9 @@ Olá! Sou o Luciano, profissional com mais de 8 anos de experiência em suporte 
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📊 Painel de Atividades
 
-![Estatísticas do Luciano](https://github-readme-stats.vercel.app/api?username=lucianocsd&show_icons=true&theme=dark)
+![Metrics](https://metrics.lecoq.io/lucianocsd?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo)
 
 ---
 
