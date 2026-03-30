@@ -1,6 +1,6 @@
 # Olá, sou o Luciano Carvalho! 👋
 
-Profissional com mais de 8 anos de experiência em **Suporte Técnico Nível 2/3**, focado na análise e sustentação de sistemas legados em **Delphi**. Minha especialidade é "olhar por baixo do capô": utilizo **SQL Profiler** para diagnosticar gargalos de performance, deadlocks e inconsistências em consultas complexas.
+Profissional com mais de 8 anos de experiência em **Suporte Técnico Nível 2/3**, focado na Análise Técnica e Diagnóstico de Software em Camada de Dados (Delphi/SQL Server)". Minha especialidade é "olhar por baixo do capô": utilizo **SQL Profiler** para diagnosticar gargalos de performance, deadlocks e inconsistências em consultas complexas.
 
 🚀 **Minha Jornada para QA:**
 Atualmente, estou unindo minha bagagem sólida em **Database Testing** e análise de causa raiz com ferramentas modernas de automação (n8n, Python) para me tornar um **QA Tester** focado em Backend e Performance.
