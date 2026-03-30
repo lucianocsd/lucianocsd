@@ -26,6 +26,12 @@ Olá! Sou o Luciano, profissional com mais de 8 anos de experiência em suporte 
 ![Metrics](https://metrics.lecoq.io/lucianocsd?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo)
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucianocsd&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" height="170">
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucianocsd&theme=tokyonight&layout=compact" alt="Linguagens mais usadas" height="170">
+</p>
+---
 
 ### 🔗 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianocsd)
