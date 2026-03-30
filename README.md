@@ -1,15 +1,18 @@
-### Luciano Carvalho
+# Olá, sou o Luciano Carvalho! 👋
 
-Analista de TI | Entusiasta em QA Tester e Cyber Segurança | Analista em Bancos de Dados
+Profissional com mais de 8 anos de experiência em **Suporte Técnico Nível 2/3**, focado na análise e sustentação de sistemas legados em **Delphi**. Minha especialidade é "olhar por baixo do capô": utilizo **SQL Profiler** para diagnosticar gargalos de performance, deadlocks e inconsistências em consultas complexas.
 
-Olá! Sou o Luciano, profissional com mais de 8 anos de experiência em suporte técnico e análise de dados. Atualmente, estou mergulhando no ecossistema de QA Testing e Automação, unindo minha base sólida em SQL com ferramentas modernas como n8n e Python.
+🚀 **Minha Jornada para QA:**
+Atualmente, estou unindo minha bagagem sólida em **Database Testing** e análise de causa raiz com ferramentas modernas de automação (n8n, Python) para me tornar um **QA Tester** focado em Backend e Performance.
 
-🛠️ Atualmente focado em: Automação de processos e testes de software.
+---
 
-🎓 Cursando: Análise e Desenvolvimento de Sistemas (FAETERJ-Rio).
+### 🕵️ O que eu trago para a mesa como QA:
 
-⚙️ Expertise: Troubleshooting, SQL Server e otimização de consultas.
-
+- **Database Testing:** Expertise em validar integridade de dados diretamente no **SQL Server** e **Oracle** via scripts T-SQL, transações e auditoria de logs.
+- **Análise de Performance:** Domínio de **SQL Profiler** para identificar queries ineficientes geradas pela aplicação e sugerir otimizações (índices, reescrita de joins).
+- **Troubleshooting Complexo:** Habilidade em depurar falhas de conectividade (BDE, SQLNCLI) e lógica de negócio em sistemas desktop e web.
+- **Automação de Dados:** Desenvolvimento de fluxos inteligentes com **n8n** para monitoramento de APIs e alertas automatizados via Telegram/PostgreSQL.
 
 ### 🛠️ Tecnologias e Ferramentas
 
